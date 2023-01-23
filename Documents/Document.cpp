@@ -1,1 +1,8 @@
-cout<<"This is a folder for our documents";
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout<<"This is our folder for documents";
+}
